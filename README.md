@@ -13,6 +13,7 @@ In this course I studied sensor fusion, which is the process of taking data from
 **Sensor Fusion** by combing lidar's high resoultion imaging with radar's ability to measure velocity of objects we can get a better understanding of the sorrounding environment than we could using one of the sensors alone.
 
 ## The LiDAR Obstacle Detection Project
+![Demo](https://raw.githubusercontent.com/hedeya1980/Images/main/LiDAR_Obstacle_Detection.gif)
 This is my submission for the LiDAR Obstacle Detection Project.
 In this project, the following steps were applied to detect obstacles in the road from a stream of Point Cloud files (using the PCL library):
 * Road Plane Segmentation
